@@ -1,0 +1,35 @@
+body {
+    width: 350px;
+    min-height: 250px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+}
+
+.container {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+#status {
+    margin: 20px 0;
+    color: #555;
+}
+
+button {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+#result {
+    margin-top: 20px;
+    padding: 10px;
+    word-break: break-all;
+}
